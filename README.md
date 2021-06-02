@@ -24,6 +24,7 @@ I am __Zi Yih Lee__, a seasoned marine underwriter who started as a broker.
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -44,8 +45,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Naitonal Technological University of Singapore
+Bachelors of Business, Actuarial Science Specialization 2005-08
 
 <!-- EDUCATION Section Ends -->
 
@@ -83,3 +84,10 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+<!-- EXTRACURRICULAR Section Starts -->
+## EXTRACURRICULAR
+<!-- Add your details -->
+
+
+<!-- EXTRACURRICULAR Section Ends -->
