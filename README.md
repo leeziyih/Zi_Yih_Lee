@@ -2,7 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@leeziyih@gmail.com 
+✉️: leeziyih@gmail.com 
 &nbsp;&nbsp; 📲 +65-81894974
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/zee-lee-813ba5167/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
