@@ -31,6 +31,15 @@ I am __Zi Yih Lee__, a seasoned marine underwriter who started as a broker.
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
+##### ARGOGLOBAL UNDERWRITING ASIA PTE LTD
+MARINE UNDERWRITER<br>
+June-2016 to sEPT-2020: X year X Months
+
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: BCG GAMMA
+
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+
 ##### BOSTON CONSULTING GROUP
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
@@ -39,12 +48,15 @@ ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
-
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
+
+##### BCG RISE
+6 months programme on Business & Data Analytics Feb 2021-Present
+
 ##### Naitonal Technological University of Singapore
 Bachelors of Business, Actuarial Science Specialization 2005-08
 
